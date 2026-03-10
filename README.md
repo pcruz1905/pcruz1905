@@ -29,7 +29,6 @@
 - ❤️ In love with **Effect-TS** and functional programming
 - 🌊 Pure functions, composable pipelines, algebraic effects
 - 🦀 Rust for systems, TypeScript for everything else
-- 🐧 Linux nerd — from kernel space to edge infra
 - 📡 Obsessed with distributed systems & consensus algorithms
 
 ---
