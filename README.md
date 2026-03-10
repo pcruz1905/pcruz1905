@@ -83,13 +83,13 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api?username=pcruz1905&show_icons=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120&ring_color=F48120)
+![GitHub Stats](https://github-readme-stat-neon.vercel.app/api?username=pcruz1905&show_icons=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120&ring_color=F48120)
 
 ---
 
 ### 📘 Top Languages
 
-![Top Languages](https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api/top-langs/?username=pcruz1905&layout=compact&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120)
+![Top Languages](https://github-readme-stat-neon.vercel.app/api/top-langs/?username=pcruz1905&layout=compact&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120)
 
 ---
 
