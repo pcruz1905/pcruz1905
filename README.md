@@ -23,7 +23,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats-jade-nine-37.vercel.app/api/top-langs/?username=PedrCruz19&layout=compact&theme=radical&border_radius=12&hide_border=true&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120" />
+<img align="right" width="360" src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api/top-langs/?username=pcruz1905&layout=compact&theme=radical&border_radius=12&hide_border=true&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120" />
 
 ### 🧠 About Me
 
@@ -87,11 +87,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-jade-nine-37.vercel.app/api?username=PedrCruz19&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api?username=pcruz1905&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PedrCruz19&theme=radical&hide_border=true&background=0D1117&stroke=F48120&ring=F48120&fire=FF6B6B&currStreakLabel=F48120&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pcruz1905&theme=radical&hide_border=true&background=0D1117&stroke=F48120&ring=F48120&fire=FF6B6B&currStreakLabel=F48120&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
 </div>
 
 ---
@@ -100,6 +100,6 @@
 
 *"The best infrastructure is the one you never have to think about."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=PedrCruz19&color=F48120&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=pcruz1905&color=F48120&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
