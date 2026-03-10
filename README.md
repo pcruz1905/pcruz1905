@@ -84,7 +84,7 @@
 
 <div align="center">
   <a href="https://github.com/pcruz1905">
-    <img height=200 align="center" src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api?username=pcruz1905&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120&include_all_commits=true" />
+    <img height=200 align="center" src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api?username=pcruz1905&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120" />
   </a>
   <a href="https://github.com/pcruz1905">
     <img height=200 align="center" src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api/top-langs/?username=pcruz1905&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120" />
