@@ -23,8 +23,6 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api/top-langs/?username=pcruz1905&layout=compact&theme=radical&border_radius=12&hide_border=true&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120" />
-
 ### 🧠 About Me
 
 - 🎓 CS Student at **ISEP** — Porto, Portugal
@@ -34,8 +32,6 @@
 - 🦀 Rust for systems, TypeScript for everything else
 - 🐧 Linux nerd — from kernel space to edge infra
 - 📡 Obsessed with distributed systems & consensus algorithms
-
-<br clear="right"/>
 
 ---
 
@@ -87,8 +83,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api?username=pcruz1905&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120" alt="GitHub Stats" />
+  <a href="https://github.com/pcruz1905">
+    <img height=200 align="center" src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api?username=pcruz1905&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/pcruz1905">
+    <img height=200 align="center" src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api/top-langs/?username=pcruz1905&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120" />
+  </a>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pcruz1905&theme=radical&hide_border=true&background=0D1117&stroke=F48120&ring=F48120&fire=FF6B6B&currStreakLabel=F48120&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
