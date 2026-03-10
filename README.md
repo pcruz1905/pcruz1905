@@ -83,18 +83,23 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/pcruz1905">
-    <img height=200 align="center" src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api?username=pcruz1905&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/pcruz1905">
-    <img height=200 align="center" src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api/top-langs/?username=pcruz1905&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" />
-  </a>
+  <img
+    src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api?username=pcruz1905&show_icons=true&count_private=true&theme=radical&hide_border=false&border_radius=15"
+    alt="GitHub Stats"
+    style="max-width: 100%; border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"
+  />
 </div>
 
-<br/>
+---
+
+### 📘 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pcruz1905&theme=radical&hide_border=true&background=0D1117&stroke=F48120&ring=F48120&fire=FF6B6B&currStreakLabel=F48120&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api/top-langs/?username=pcruz1905&layout=compact&theme=radical&border_radius=15"
+    alt="Top Languages"
+    style="max-width: 100%; border-radius: 15px; margin-top: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"
+  />
 </div>
 
 ---
