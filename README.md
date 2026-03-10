@@ -52,8 +52,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Backend & Runtime**
 
@@ -83,25 +83,13 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img
-    src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api?username=pcruz1905&show_icons=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120&ring_color=F48120"
-    alt="GitHub Stats"
-    style="max-width: 100%; border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"
-  />
-</div>
+![GitHub Stats](https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api?username=pcruz1905&show_icons=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120&ring_color=F48120)
 
 ---
 
 ### 📘 Top Languages
 
-<div align="center">
-  <img
-    src="https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api/top-langs/?username=pcruz1905&layout=compact&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120"
-    alt="Top Languages"
-    style="max-width: 100%; border-radius: 15px; margin-top: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"
-  />
-</div>
+![Top Languages](https://github-readme-stats-git-master-pcruz1905s-projects.vercel.app/api/top-langs/?username=pcruz1905&layout=compact&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F48120&text_color=ffffff&icon_color=F48120)
 
 ---
 
