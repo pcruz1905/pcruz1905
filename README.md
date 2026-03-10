@@ -26,7 +26,6 @@
 ### 🧠 About Me
 
 - 🎓 CS Student at **ISEP** — Porto, Portugal
-- 🟠 Building **Fluxo** — a Rust-based Durable Objects cluster like **Temporal**, on top of **Cloudflare**
 - ❤️ In love with **Effect-TS** and functional programming
 - 🌊 Pure functions, composable pipelines, algebraic effects
 - 🦀 Rust for systems, TypeScript for everything else
