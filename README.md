@@ -9,7 +9,6 @@
 ╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
 
-### Building the infrastructure for the next generation of the web.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=F48120&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Systems+Developer;Rust+%2F+TypeScript+%2F+C;Effect-TS;)](https://git.io/typing-svg)
 
