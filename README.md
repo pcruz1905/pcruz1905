@@ -38,7 +38,7 @@
 
 <div align="center">
 
-*"The best infrastructure is the one you never have to think about."*
+*"pruz/pedrocruz"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pcruz1905&color=F48120&style=for-the-badge&label=PROFILE+VIEWS)
 
